@@ -35,4 +35,5 @@ sections:
       button: JOIN OUR MAILING LIST HERE!
       alt: Image alt text
       url: https://form.gov.sg/608fb15c39fe840011241fb9
+      image: /images/favicon-isomer.ico
 ---
