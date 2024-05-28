@@ -21,11 +21,27 @@ links:
   - title: HR Topics
     url: /permalink
     sublinks:
-      - title: "Employee Engagement "
+      - title: Employee Engagement
         url: /permalink
       - title: Learning
         url: /permalink
       - title: HR Technology
+        url: /permalink
+  - title: Content Type
+    url: /permalink
+    sublinks:
+      - title: Articles
+        url: /permalink
+      - title: Podcasts
+        url: /permalink
+      - title: Infographics
+        url: /permalink
+  - title: Programmes
+    url: /permalink
+    sublinks:
+      - title: Upcoming Programmes
+        url: /permalink
+      - title: Past Programmes
         url: /permalink
   - title: Past Thrive Curations
     collection: past-thrive-curations
