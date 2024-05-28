@@ -1,8 +1,26 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: "About "
+    url: /permalink
+    sublinks:
+      - title: About tHRive
+        url: /permalink
+      - title: Purpose
+        url: /permalink
+      - title: Contributors
+        url: /permalink
   - title: Example Page
     url: /example-page/
   - title: Past Thrive Curations
     collection: past-thrive-curations
+  - title: Contact Us
+    url: /contact-us/
+  - title: Archive
+    url: /permalink
+    sublinks:
+      - title: "2023 "
+        url: /permalink
+      - title: "2022"
+        url: /permalink
+      - title: "2021"
+        url: /permalink
