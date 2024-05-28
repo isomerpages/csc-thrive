@@ -28,17 +28,11 @@ sections:
       alignment: left
       size: md
       backgroundColor: gray
-  - infobar:
-      title: Want to join the tHRive mailing list?
-      description: "Alternatively, you can email CSCOLLEGE_SHR@cscollege.gov.sg to
-        join as well. "
-      button: Join our mailing list here!
-      url: /faq/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Want to join the tHRive mailing list?
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Email CSCOLLEGE_SHR@cscollege.gov.sg to join OR
+      button: JOIN OUR MAILING LIST HERE!
       alt: Image alt text
+      url: https://form.gov.sg/608fb15c39fe840011241fb9
 ---
