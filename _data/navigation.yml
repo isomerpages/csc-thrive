@@ -43,10 +43,6 @@ links:
         url: /permalink
       - title: Past Programmes
         url: /permalink
-  - title: Past Thrive Curations
-    collection: past-thrive-curations
-  - title: Contact Us
-    url: /contact-us/
   - title: Community
     url: /permalink
     sublinks:
@@ -54,3 +50,5 @@ links:
         url: /permalink
       - title: Feedback
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
