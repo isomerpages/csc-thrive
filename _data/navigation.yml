@@ -9,7 +9,7 @@ links:
         url: /permalink
       - title: Contributors
         url: /permalink
-  - title: Curations
+  - title: tHRive Curations
     url: /permalink
     sublinks:
       - title: "2023"
@@ -18,8 +18,15 @@ links:
         url: /permalink
       - title: "2021"
         url: /permalink
-  - title: Example Page
-    url: /example-page/
+  - title: HR Topics
+    url: /permalink
+    sublinks:
+      - title: "Employee Engagement "
+        url: /permalink
+      - title: Learning
+        url: /permalink
+      - title: HR Technology
+        url: /permalink
   - title: Past Thrive Curations
     collection: past-thrive-curations
   - title: Contact Us
