@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  thrive-fy23:
     output: true
     order:
       - folder-page.md
