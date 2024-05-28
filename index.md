@@ -29,10 +29,10 @@ sections:
       size: md
       backgroundColor: gray
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Want to join the tHRive mailing list?
+      description: "Alternatively, you can email CSCOLLEGE_SHR@cscollege.gov.sg to
+        join as well. "
+      button: Join our mailing list here!
       url: /faq/
   - infopic:
       title: Infopic
