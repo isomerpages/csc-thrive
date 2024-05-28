@@ -47,7 +47,7 @@ links:
     collection: past-thrive-curations
   - title: Contact Us
     url: /contact-us/
-  - title: "Community "
+  - title: Community
     url: /permalink
     sublinks:
       - title: Forum
