@@ -2,6 +2,7 @@ collections:
   thrive-curations-x:
     output: true
     order:
+      - Topics/Competency Driven Growth.md
       - Topics/.keep
       - Year/.keep
       - Year/2023.md
