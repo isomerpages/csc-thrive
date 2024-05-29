@@ -1,4 +1,5 @@
 collections:
   thrive-curations-2:
     output: true
-    order: []
+    order:
+      - ALL.md
