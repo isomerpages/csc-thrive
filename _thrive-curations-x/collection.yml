@@ -1,5 +1,4 @@
 collections:
   thrive-curations-x:
     output: true
-    order:
-      - Year.md
+    order: []
