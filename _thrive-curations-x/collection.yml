@@ -2,6 +2,7 @@ collections:
   thrive-curations-x:
     output: true
     order:
+      - Content Type/Articles.md
       - Content Type/.keep
       - Topics/Employee Engagement.md
       - Topics/Competency Driven Growth.md
