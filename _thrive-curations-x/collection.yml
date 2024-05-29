@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - ALL.md
-      - Content Type/Research.md
-      - Content Type/Podcasts.md
-      - Content Type/Articles.md
-      - Content Type/.keep
-      - Topics/Employee Engagement.md
-      - Topics/Competency Driven Growth.md
-      - Topics/.keep
       - Year/.keep
       - Year/2023.md
       - Year/2022.md
       - Year/2021.md
+      - Content Type/.keep
+      - Content Type/Research.md
+      - Content Type/Podcasts.md
+      - Content Type/Articles.md
+      - Topics/.keep
+      - Topics/Employee Engagement.md
+      - Topics/Competency Driven Growth.md
