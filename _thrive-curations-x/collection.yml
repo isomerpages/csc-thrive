@@ -2,4 +2,5 @@ collections:
   thrive-curations-x:
     output: true
     order:
+      - Year/2023.md
       - Year/.keep
