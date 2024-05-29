@@ -4,5 +4,5 @@ collections:
     order:
       - Year/.keep
       - Year/2023.md
-      - Year/2021.md
       - Year/2022.md
+      - Year/2021.md
