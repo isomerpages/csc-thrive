@@ -11,15 +11,6 @@ links:
         url: /permalink
   - title: tHRive Curations
     collection: thrive-curations
-  - title: tHRive Curations
-    url: /permalink
-    sublinks:
-      - title: "2023"
-        url: /permalink
-      - title: "2022"
-        url: /permalink
-      - title: "2021"
-        url: /permalink
   - title: HR Topics
     url: /permalink
     sublinks:
