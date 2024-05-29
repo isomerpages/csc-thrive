@@ -12,7 +12,7 @@ sections:
         pieces, presented to you by the Strategic HR Team. Have fun exploring,
         and happy reading!
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Join Our Mailing List
       url: /contact-us/
       key_highlights:
         - title: Highlight A
