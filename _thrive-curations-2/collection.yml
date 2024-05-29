@@ -1,5 +1,0 @@
-collections:
-  thrive-curations-2:
-    output: true
-    order:
-      - ALL.md
