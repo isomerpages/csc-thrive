@@ -29,11 +29,18 @@ sections:
       size: md
       backgroundColor: gray
   - infopic:
-      title: Want to join the tHRive mailing list?
+      title: How will Gen AI impact HR?
+      subtitle: Coming Soon!
       id: infopic
+      description: "Generative AI (Gen AI) has taken the world by storm! It is
+        powerful, accessible and its emergence signifies a notable shift in how
+        HR can approach work. "
+      image: /images/Thrive_Infographics.png
+      alt: Image alt text
+  - infobar:
+      title: Want to join the tHRive mailing list?
+      id: infobar
       description: Email CSCOLLEGE_SHR@cscollege.gov.sg to join OR
       button: JOIN OUR MAILING LIST HERE!
-      alt: Image alt text
       url: https://form.gov.sg/608fb15c39fe840011241fb9
-      image: /images/favicon-isomer.ico
 ---
