@@ -32,11 +32,27 @@ sections:
       title: How will Gen AI impact HR?
       subtitle: Coming Soon!
       id: infopic
-      description: "Generative AI (Gen AI) has taken the world by storm! It is
+      description: Generative AI (Gen AI) has taken the world by storm! It is
         powerful, accessible and its emergence signifies a notable shift in how
-        HR can approach work. "
+        HR can approach work.
       image: /images/Thrive_Infographics.png
       alt: Image alt text
+  - announcements:
+      title: "SHR Programmes & Events "
+      id: announcements
+      subtitle: Look out for upcoming events!
+      announcement_items:
+        - title: Career Development
+          date: 02 July 2024
+          announcement: ​​​​​​​​​​​​​​[Virtual Classroom] Career Development for Managers
+            [CRCDMVL]
+          link_text: Read more here!
+          link_url: https://register.csc.gov.sg/course/CRCDMVL
+        - title: Employee Experience
+          date: 05 September 2024
+          announcement: Designing Employee Experience for HR Practitioners [CREEXDT]
+          link_text: Read more here!
+          link_url: https://register.csc.gov.sg/course/CREEXDT
   - infobar:
       title: Want to join the tHRive mailing list?
       id: infobar
