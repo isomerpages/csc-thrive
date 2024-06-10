@@ -1,7 +1,0 @@
-collections:
-  past-thrive-curations:
-    output: true
-    order:
-      - Past tHRive Curations.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
