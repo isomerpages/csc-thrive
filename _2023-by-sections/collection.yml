@@ -2,5 +2,6 @@ collections:
   2023-by-sections:
     output: true
     order:
+      - Transition to Competency Driven Growth.md
       - Leveraging on data analytics.md
       - HR's Role in Influencing Organisational Culture.md
