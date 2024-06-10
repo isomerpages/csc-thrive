@@ -2,4 +2,6 @@ collections:
   2022-by-sections:
     output: true
     order:
+      - A Competency Driven Approach to Recruitment, Performance Management, and
+        Development.md
       - The Shift to Competency Driven Growth.md
