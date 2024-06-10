@@ -2,6 +2,7 @@ collections:
   2022-by-sections:
     output: true
     order:
+      - Engaging Employees on their Wellbeing in the shift to CDG.md
       - Developing Officers in a Competency Driven Growth Approach.md
       - A Competency Driven Approach to Recruitment, Performance Management, and
         Development.md
