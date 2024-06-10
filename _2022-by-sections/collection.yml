@@ -1,4 +1,5 @@
 collections:
   2022-by-sections:
     output: true
-    order: []
+    order:
+      - The Shift to Competency Driven Growth.md
