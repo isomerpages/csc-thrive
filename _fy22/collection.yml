@@ -1,5 +1,5 @@
 collections:
-  2022-by-sections:
+  fy22:
     output: true
     order:
       - Engaging Employees on their Wellbeing in the shift to CDG.md
