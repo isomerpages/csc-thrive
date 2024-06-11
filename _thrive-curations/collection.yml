@@ -1,5 +1,5 @@
 collections:
-  thrive-curations-x:
+  thrive-curations:
     output: true
     order:
       - ALL.md
