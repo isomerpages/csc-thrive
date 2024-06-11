@@ -9,8 +9,8 @@ links:
         url: /permalink
       - title: Contributors
         url: /permalink
-  - title: "tHRive Curations "
-    collection: thrive-curations-x
+  - title: Thrive Curations
+    collection: thrive-curations
   - title: HR Topics
     url: /permalink
     sublinks:
