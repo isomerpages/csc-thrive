@@ -1,4 +1,5 @@
 collections:
   2024-by-sections:
     output: true
-    order: []
+    order:
+      - Generative AI’s transformative impact on HR work.md
