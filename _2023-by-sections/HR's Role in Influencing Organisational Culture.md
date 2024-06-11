@@ -4,7 +4,9 @@ permalink: /hr-s-role-in-influencing-organisational-culture/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/thrive_website.png">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.learn.gov.sg/dlp/course#/course/417213?app=dlp" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/15.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fostering a Desired Culture Through Employee Experience [SHR Resource]</div><div class="isomer-card-description">Organisational culture can influence the employee experience, creating an opportunity for HR to design an employee experience that builds on the organisation's culture, and vice versa. What can HR do to shape a culture that's aligned with the employee experience?</div><div class="isomer-card-link">Read on to find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.learn.gov.sg/dlp/course#/course/417061?app=dlp" class="isomer-card">
 <div class="isomer-card-image">
@@ -38,4 +40,5 @@ to meet the vision and core values of the organisation.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.cultureamp.com/blog/company-culture-101#create-a-company-culture-that-inspires" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HR’s complete guide to company culture [Culture Amp]</div><div class="isomer-card-description">Culture Amp, succinctly defines organisational culture as 'how we work – together.' This article explores why culture is essential, what constitutes a "good" organisational culture and the strategies for building and enhancing it.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<p></p>
 <p></p>
