@@ -9,7 +9,7 @@ links:
         url: /permalink
       - title: Contributors
         url: /permalink
-  - title: tHRive Curations x
+  - title: "tHRive Curations "
     collection: thrive-curations-x
   - title: HR Topics
     url: /permalink
@@ -45,5 +45,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: tHRive Curations R
-    resource_room: true
