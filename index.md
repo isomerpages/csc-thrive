@@ -11,7 +11,7 @@ sections:
       subtitle: A one-stop resource for curated articles, LEARN modules & research
         pieces, presented to you by the Strategic HR Team. Have fun exploring,
         and happy reading!
-      background: /images/hero-banner.png
+      background: /images/55__2_.png
       button: Join Our Mailing List
       url: /contact-us/
       key_highlights:
