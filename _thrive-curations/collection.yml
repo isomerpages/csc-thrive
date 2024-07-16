@@ -1,4 +1,5 @@
 collections:
   thrive-curations:
     output: true
-    order: []
+    order:
+      - FY2024/.keep
