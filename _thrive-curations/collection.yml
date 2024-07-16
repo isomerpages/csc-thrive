@@ -1,0 +1,4 @@
+collections:
+  thrive-curations:
+    output: true
+    order: []
