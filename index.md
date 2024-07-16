@@ -46,7 +46,7 @@ sections:
   - infobar:
       title: Want to join the tHRive mailing list?
       id: infobar
-      description: Email CSCOLLEGE_SHR@cscollege.gov.sg to join OR
+      description: Email CSCOLLEGE_SHR@cscollege.gov.sg  OR
       button: JOIN OUR MAILING LIST HERE!
       url: https://form.gov.sg/608fb15c39fe840011241fb9
 ---
