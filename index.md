@@ -13,7 +13,7 @@ sections:
         and happy reading!
       background: /images/55__2_.png
       button: Join Our Mailing List
-      url: /contact-us/
+      url: https://form.gov.sg/608fb15c39fe840011241fb9
       variant: floating
       alignment: left
       size: md
