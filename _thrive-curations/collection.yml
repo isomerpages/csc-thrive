@@ -2,5 +2,6 @@ collections:
   thrive-curations:
     output: true
     order:
+      - FY2022.md
       - FY2023.md
       - FY2024.md
