@@ -9,26 +9,8 @@ links:
         url: /permalink
       - title: Contributors
         url: /permalink
-  - title: Thrive Curations 2
-    collection: thrive-curations-2
-  - title: HR Topics
-    url: /permalink
-    sublinks:
-      - title: Employee Engagement
-        url: /permalink
-      - title: Learning
-        url: /permalink
-      - title: HR Technology
-        url: /permalink
-  - title: Content Type
-    url: /permalink
-    sublinks:
-      - title: Articles
-        url: /permalink
-      - title: Podcasts
-        url: /permalink
-      - title: Infographics
-        url: /permalink
+  - title: tHRive Curations
+    collection: thrive-curations
   - title: Programmes
     url: /permalink
     sublinks:
@@ -43,5 +25,3 @@ links:
         url: /permalink
       - title: Feedback
         url: /permalink
-  - title: Contact Us
-    url: /contact-us/
