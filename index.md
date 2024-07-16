@@ -14,16 +14,6 @@ sections:
       background: /images/55__2_.png
       button: Join Our Mailing List
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
       variant: floating
       alignment: left
       size: md
