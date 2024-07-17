@@ -5,6 +5,21 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_14_130313.png">
+</div>
+<p>Over the years, HR technology has evolved and revolutionised the way we
+work. With the advent of large language modelling, artificial intelligence
+(AI) and machine learning, HR practitioners now have powerful tools that
+can help to streamline work and make more informed choices at the workplace.&nbsp;
+These technology advances are closely linked to HR analytics, which continues
+to be a concrete approach for HR to better understand the workforce. HR
+analytics remain the mainstay to identify patterns and trends in employee
+behaviour, performance and engagement, and to answer crucial HR questions
+such as, “How can we improve employee experience? Who will leave and when?
+What skills and talent do we need 5 years down the road?”</p>
+<p>Check out our curation below, where we explore how HR can leverage on
+data analytics to drive people decisions!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aihr.com/blog/data-driven-hr-mindset/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data-Driven HR Mindset: Here's how you can get ahead [AIHR]</div><div class="isomer-card-description">To be able to effectively use data analytics, HR professionals are required to have the ability to read, utilize metrics, and determine KPIs, as well as be able to translate data into decisions that will impact business outcomes.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.myhrfuture.com/blog/how-to-connect-people-analytics-and-employee-experience" class="isomer-card">
 <div class="isomer-card-image">
@@ -51,7 +66,7 @@ still face challenges in fully utilizing people analytics.</div>
 </a>
 </div>
 <hr>
-<h4>Additional Resources </h4>
+<h4>Additional Resources</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>HR Analytics COP</strong>
