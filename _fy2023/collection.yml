@@ -1,5 +1,5 @@
 collections:
-  fy23:
+  fy2023:
     output: true
     order:
       - Transition to Competency Driven Growth.md
