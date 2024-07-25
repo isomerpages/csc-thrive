@@ -27,8 +27,7 @@ and the next steps to take to craft an impactful organisational culture!</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">How To Describe the Culture of the Company You Work For [Indeed]f the
-Company You Work For [Indeed]</div>
+<div class="isomer-card-title">How To Describe the Culture of the Company You Work For [Indeed]</div>
 <div class="isomer-card-description">Articulating an organisation’s culture can be a daunting task for HR professionals.
 However, only when HR truly understands and can communicate what the current
 organisational culture is, can they influence and harmonize this culture
